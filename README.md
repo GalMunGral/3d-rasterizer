@@ -1,4 +1,6 @@
-#yeaho rasterizer
+# 3d-rasterizer
+
+**Live demo:** https://galmungral.github.io/3d-rasterizer/
 
 ## Rhetorical Design
 
