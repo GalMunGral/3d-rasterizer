@@ -2,6 +2,7 @@
 #include <fstream>
 #include <vector>
 #include <sstream>
+#include <emscripten.h>
 #include <emscripten/fetch.h>
 #include <SDL.h>
 #include "rasterize.hpp"
